@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class MainClass {
 
     //1 задание
+
     public static void main(String[] args) {
         int[] arr1 = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
         System.out.println(Arrays.toString(arr1));
